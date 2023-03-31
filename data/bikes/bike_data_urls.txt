@@ -1,0 +1,197 @@
+# A few lines are commented out. These are files that are also in the zip files,
+# so we don't download them individually.
+#
+https://cycling.data.tfl.gov.uk/usage-stats/01aJourneyDataExtract10Jan16-23Jan16.csv
+# https://cycling.data.tfl.gov.uk/usage-stats/01b Journey Data Extract 24Jan16-06Feb16.csv
+https://cycling.data.tfl.gov.uk/usage-stats/01bJourneyDataExtract24Jan16-06Feb16.csv
+# https://cycling.data.tfl.gov.uk/usage-stats/02aJourneyDataExtract07Fe16-20Feb2016.csv
+https://cycling.data.tfl.gov.uk/usage-stats/02bJourneyDataExtract21Feb16-05Mar2016.csv
+https://cycling.data.tfl.gov.uk/usage-stats/03JourneyDataExtract06Mar2016-31Mar2016.csv
+https://cycling.data.tfl.gov.uk/usage-stats/04JourneyDataExtract01Apr2016-30Apr2016.csv
+https://cycling.data.tfl.gov.uk/usage-stats/05JourneyDataExtract01May2016-17May2016.csv
+https://cycling.data.tfl.gov.uk/usage-stats/07JourneyDataExtract25May2016-31May2016.csv
+https://cycling.data.tfl.gov.uk/usage-stats/08JourneyDataExtract01Jun2016-07Jun2016.csv
+https://cycling.data.tfl.gov.uk/usage-stats/09JourneyDataExtract08Jun2016-14Jun2016.csv
+https://cycling.data.tfl.gov.uk/usage-stats/10JourneyDataExtract15Jun2016-21Jun2016.csv
+# https://cycling.data.tfl.gov.uk/usage-stats/10a-Journey-Data-Extract-20Sep15-03Oct15.csv
+# https://cycling.data.tfl.gov.uk/usage-stats/10b-Journey-Data-Extract-04Oct15-17Oct15.csv
+https://cycling.data.tfl.gov.uk/usage-stats/11JourneyDataExtract22Jun2016-28Jun2016.csv
+# https://cycling.data.tfl.gov.uk/usage-stats/11a-Journey-Data-Extract-18Oct15-31Oct15.csv
+# https://cycling.data.tfl.gov.uk/usage-stats/11b-Journey-Data-Extract-01Nov15-14Nov15.csv
+https://cycling.data.tfl.gov.uk/usage-stats/12JourneyDataExtract29Jun2016-05Jul2016.csv
+# https://cycling.data.tfl.gov.uk/usage-stats/12aJourneyDataExtract15Nov15-27Nov15.csv
+# https://cycling.data.tfl.gov.uk/usage-stats/12bJourneyDataExtract28Nov15-12Dec15.csv
+https://cycling.data.tfl.gov.uk/usage-stats/13JourneyDataExtract06Jul2016-12Jul2016.csv
+# https://cycling.data.tfl.gov.uk/usage-stats/13aJourneyDataExtract13Dec15-24Dec15.csv
+# https://cycling.data.tfl.gov.uk/usage-stats/13bJourneyDataExtract25Dec15-09Jan16.csv
+https://cycling.data.tfl.gov.uk/usage-stats/14JourneyDataExtract13Jul2016-19Jul2016.csv
+https://cycling.data.tfl.gov.uk/usage-stats/15JourneyDataExtract20Jul2016-26Jul2016.csv
+https://cycling.data.tfl.gov.uk/usage-stats/16JourneyDataExtract27Jul2016-02Aug2016.csv
+https://cycling.data.tfl.gov.uk/usage-stats/17JourneyDataExtract03Aug2016-09Aug2016.csv
+https://cycling.data.tfl.gov.uk/usage-stats/18JourneyDataExtract10Aug2016-16Aug2016.csv
+https://cycling.data.tfl.gov.uk/usage-stats/19JourneyDataExtract17Aug2016-23Aug2016.csv
+https://cycling.data.tfl.gov.uk/usage-stats/1a.JourneyDataExtract04Jan15-17Jan15.csv
+https://cycling.data.tfl.gov.uk/usage-stats/1b.JourneyDataExtract18Jan15-31Jan15.csv
+https://cycling.data.tfl.gov.uk/usage-stats/20JourneyDataExtract24Aug2016-30Aug2016.csv
+https://cycling.data.tfl.gov.uk/usage-stats/21JourneyDataExtract31Aug2016-06Sep2016.csv
+https://cycling.data.tfl.gov.uk/usage-stats/22JourneyDataExtract07Sep2016-13Sep2016.csv
+https://cycling.data.tfl.gov.uk/usage-stats/23JourneyDataExtract14Sep2016-20Sep2016.csv
+https://cycling.data.tfl.gov.uk/usage-stats/24JourneyDataExtract21Sep2016-27Sep2016.csv
+https://cycling.data.tfl.gov.uk/usage-stats/25JourneyDataExtract28Sep2016-04Oct2016.csv
+https://cycling.data.tfl.gov.uk/usage-stats/26JourneyDataExtract05Oct2016-11Oct2016.csv
+https://cycling.data.tfl.gov.uk/usage-stats/27JourneyDataExtract12Oct2016-18Oct2016.csv
+https://cycling.data.tfl.gov.uk/usage-stats/28JourneyDataExtract19Oct2016-25Oct2016.csv
+https://cycling.data.tfl.gov.uk/usage-stats/29JourneyDataExtract26Oct2016-01Nov2016.csv
+https://cycling.data.tfl.gov.uk/usage-stats/2a.JourneyDataExtract01Feb15-14Feb15.csv
+https://cycling.data.tfl.gov.uk/usage-stats/2b.JourneyDataExtract15Feb15-28Feb15.csv
+https://cycling.data.tfl.gov.uk/usage-stats/30JourneyDataExtract02Nov2016-08Nov2016.csv
+https://cycling.data.tfl.gov.uk/usage-stats/31JourneyDataExtract09Nov2016-15Nov2016.csv
+https://cycling.data.tfl.gov.uk/usage-stats/32JourneyDataExtract16Nov2016-22Nov2016.csv
+https://cycling.data.tfl.gov.uk/usage-stats/33JourneyDataExtract23Nov2016-29Nov2016.csv
+https://cycling.data.tfl.gov.uk/usage-stats/34JourneyDataExtract30Nov2016-06Dec2016.csv
+https://cycling.data.tfl.gov.uk/usage-stats/35JourneyDataExtract07Dec2016-13Dec2016.csv
+https://cycling.data.tfl.gov.uk/usage-stats/36JourneyDataExtract14Dec2016-20Dec2016.csv
+https://cycling.data.tfl.gov.uk/usage-stats/37JourneyDataExtract21Dec2016-27Dec2016.csv
+https://cycling.data.tfl.gov.uk/usage-stats/38JourneyDataExtract28Dec2016-03Jan2017.csv
+https://cycling.data.tfl.gov.uk/usage-stats/39JourneyDataExtract04Jan2017-10Jan2017.csv
+https://cycling.data.tfl.gov.uk/usage-stats/3a.JourneyDataExtract01Mar15-15Mar15.csv
+https://cycling.data.tfl.gov.uk/usage-stats/3b.JourneyDataExtract16Mar15-31Mar15.csv
+https://cycling.data.tfl.gov.uk/usage-stats/40JourneyDataExtract11Jan2017-17Jan2017.csv
+https://cycling.data.tfl.gov.uk/usage-stats/41JourneyDataExtract18Jan2017-24Jan2017.csv
+https://cycling.data.tfl.gov.uk/usage-stats/42JourneyDataExtract25Jan2017-31Jan2017.csv
+https://cycling.data.tfl.gov.uk/usage-stats/43JourneyDataExtract01Feb2017-07Feb2017.csv
+https://cycling.data.tfl.gov.uk/usage-stats/44JourneyDataExtract08Feb2017-14Feb2017.csv
+https://cycling.data.tfl.gov.uk/usage-stats/45JourneyDataExtract15Feb2017-21Feb2017.csv
+https://cycling.data.tfl.gov.uk/usage-stats/46JourneyDataExtract22Feb2017-28Feb2017.csv
+https://cycling.data.tfl.gov.uk/usage-stats/47JourneyDataExtract01Mar2017-07Mar2017.csv
+https://cycling.data.tfl.gov.uk/usage-stats/48JourneyDataExtract08Mar2017-14Mar2017.csv
+https://cycling.data.tfl.gov.uk/usage-stats/4a.JourneyDataExtract01Apr15-16Apr15.csv
+https://cycling.data.tfl.gov.uk/usage-stats/4b.JourneyDataExtract 17Apr15-02May15.csv
+https://cycling.data.tfl.gov.uk/usage-stats/50 Journey Data Extract 22Mar2017-28Mar2017.csv
+https://cycling.data.tfl.gov.uk/usage-stats/51 Journey Data Extract 29Mar2017-04Apr2017.csv
+https://cycling.data.tfl.gov.uk/usage-stats/52 Journey Data Extract 05Apr2017-11Apr2017.csv
+https://cycling.data.tfl.gov.uk/usage-stats/53JourneyDataExtract12Apr2017-18Apr2017.csv
+https://cycling.data.tfl.gov.uk/usage-stats/54JourneyDataExtract19Apr2017-25Apr2017.csv
+https://cycling.data.tfl.gov.uk/usage-stats/55JourneyData Extract26Apr2017-02May2017.csv
+https://cycling.data.tfl.gov.uk/usage-stats/56JourneyDataExtract 03May2017-09May2017.csv
+https://cycling.data.tfl.gov.uk/usage-stats/57JourneyDataExtract10May2017-16May2017.csv
+https://cycling.data.tfl.gov.uk/usage-stats/5a.JourneyDataExtract03May15-16May15.csv
+https://cycling.data.tfl.gov.uk/usage-stats/5b.JourneyDataExtract17May15-30May15.csv
+https://cycling.data.tfl.gov.uk/usage-stats/6aJourneyDataExtract31May15-12Jun15.csv
+https://cycling.data.tfl.gov.uk/usage-stats/6bJourneyDataExtract13Jun15-27Jun15.csv
+https://cycling.data.tfl.gov.uk/usage-stats/7a.JourneyDataExtract28Jun15-11Jul15.csv
+https://cycling.data.tfl.gov.uk/usage-stats/7b.JourneyDataExtract12Jul15-25Jul15.csv
+# https://cycling.data.tfl.gov.uk/usage-stats/8a-Journey-Data-Extract-26Jul15-07Aug15.csv
+# https://cycling.data.tfl.gov.uk/usage-stats/8b-Journey-Data-Extract-08Aug15-22Aug15.csv
+https://cycling.data.tfl.gov.uk/usage-stats/9a-Journey-Data-Extract-23Aug15-05Sep15.csv
+https://cycling.data.tfl.gov.uk/usage-stats/9b-Journey-Data-Extract-06Sep15-19Sep15.csv
+#
+# 2019 
+https://cycling.data.tfl.gov.uk/usage-stats/142JourneyDataExtract26Dec2018-01Jan2019.csv
+https://cycling.data.tfl.gov.uk/usage-stats/143JourneyDataExtract02Jan2019-08Jan2019.csv
+https://cycling.data.tfl.gov.uk/usage-stats/144JourneyDataExtract09Jan2019-15Jan2019.csv
+https://cycling.data.tfl.gov.uk/usage-stats/145JourneyDataExtract16Jan2019-22Jan2019.csv
+https://cycling.data.tfl.gov.uk/usage-stats/146JourneyDataExtract23Jan2019-29Jan2019.csv
+https://cycling.data.tfl.gov.uk/usage-stats/147JourneyDataExtract30Jan2019-05Feb2019.csv
+https://cycling.data.tfl.gov.uk/usage-stats/148JourneyDataExtract06Feb2019-12Feb2019.csv
+https://cycling.data.tfl.gov.uk/usage-stats/149JourneyDataExtract13Feb2019-19Feb2019.csv
+https://cycling.data.tfl.gov.uk/usage-stats/150JourneyDataExtract20Feb2019-26Feb2019.csv
+https://cycling.data.tfl.gov.uk/usage-stats/151JourneyDataExtract27Feb2019-05Mar2019.csv
+https://cycling.data.tfl.gov.uk/usage-stats/152JourneyDataExtract06Mar2019-12Mar2019.csv
+https://cycling.data.tfl.gov.uk/usage-stats/153JourneyDataExtract13Mar2019-19Mar2019.csv
+https://cycling.data.tfl.gov.uk/usage-stats/154JourneyDataExtract20Mar2019-26Mar2019.csv
+https://cycling.data.tfl.gov.uk/usage-stats/155JourneyDataExtract27Mar2019-02Apr2019.csv
+https://cycling.data.tfl.gov.uk/usage-stats/156JourneyDataExtract03Apr2019-09Apr2019.csv
+https://cycling.data.tfl.gov.uk/usage-stats/157JourneyDataExtract10Apr2019-16Apr2019.csv
+https://cycling.data.tfl.gov.uk/usage-stats/158JourneyDataExtract17Apr2019-23Apr2019.csv
+https://cycling.data.tfl.gov.uk/usage-stats/159JourneyDataExtract24Apr2019-30Apr2019.csv
+https://cycling.data.tfl.gov.uk/usage-stats/160JourneyDataExtract01May2019-07May2019.csv
+https://cycling.data.tfl.gov.uk/usage-stats/161JourneyDataExtract08May2019-14May2019.csv
+https://cycling.data.tfl.gov.uk/usage-stats/162JourneyDataExtract15May2019-21May2019.csv
+https://cycling.data.tfl.gov.uk/usage-stats/163JourneyDataExtract22May2019-28May2019.csv
+https://cycling.data.tfl.gov.uk/usage-stats/164JourneyDataExtract29May2019-04Jun2019.csv
+https://cycling.data.tfl.gov.uk/usage-stats/165JourneyDataExtract05Jun2019-11Jun2019.csv
+https://cycling.data.tfl.gov.uk/usage-stats/166JourneyDataExtract12Jun2019-18Jun2019.csv
+https://cycling.data.tfl.gov.uk/usage-stats/167JourneyDataExtract19Jun2019-25Jun2019.csv
+https://cycling.data.tfl.gov.uk/usage-stats/168JourneyDataExtract26Jun2019-02Jul2019.csv
+https://cycling.data.tfl.gov.uk/usage-stats/169JourneyDataExtract03Jul2019-09Jul2019.csv
+https://cycling.data.tfl.gov.uk/usage-stats/170JourneyDataExtract10Jul2019-16Jul2019.csv
+https://cycling.data.tfl.gov.uk/usage-stats/171JourneyDataExtract17Jul2019-23Jul2019.csv
+https://cycling.data.tfl.gov.uk/usage-stats/172JourneyDataExtract24Jul2019-30Jul2019.csv
+https://cycling.data.tfl.gov.uk/usage-stats/173JourneyDataExtract31Jul2019-06Aug2019.csv
+https://cycling.data.tfl.gov.uk/usage-stats/174JourneyDataExtract07Aug2019-13Aug2019.csv
+https://cycling.data.tfl.gov.uk/usage-stats/175JourneyDataExtract14Aug2019-20Aug2019.csv
+https://cycling.data.tfl.gov.uk/usage-stats/176JourneyDataExtract21Aug2019-27Aug2019.csv
+https://cycling.data.tfl.gov.uk/usage-stats/177JourneyDataExtract28Aug2019-03Sep2019.csv
+https://cycling.data.tfl.gov.uk/usage-stats/178JourneyDataExtract04Sep2019-10Sep2019.csv
+https://cycling.data.tfl.gov.uk/usage-stats/179JourneyDataExtract11Sep2019-17Sep2019.csv
+https://cycling.data.tfl.gov.uk/usage-stats/180JourneyDataExtract18Sep2019-24Sep2019.csv
+https://cycling.data.tfl.gov.uk/usage-stats/181JourneyDataExtract25Sep2019-01Oct2019.csv
+https://cycling.data.tfl.gov.uk/usage-stats/182JourneyDataExtract02Oct2019-08Oct2019.csv
+https://cycling.data.tfl.gov.uk/usage-stats/183JourneyDataExtract09Oct2019-15Oct2019.csv
+https://cycling.data.tfl.gov.uk/usage-stats/184JourneyDataExtract16Oct2019-22Oct2019.csv
+https://cycling.data.tfl.gov.uk/usage-stats/185JourneyDataExtract23Oct2019-29Oct2019.csv
+https://cycling.data.tfl.gov.uk/usage-stats/186JourneyDataExtract30Oct2019-05Nov2019.csv
+https://cycling.data.tfl.gov.uk/usage-stats/187JourneyDataExtract06Nov2019-12Nov2019.csv
+https://cycling.data.tfl.gov.uk/usage-stats/188JourneyDataExtract13Nov2019-19Nov2019.csv
+https://cycling.data.tfl.gov.uk/usage-stats/189JourneyDataExtract20Nov2019-26Nov2019.csv
+https://cycling.data.tfl.gov.uk/usage-stats/190JourneyDataExtract27Nov2019-03Dec2019.csv
+https://cycling.data.tfl.gov.uk/usage-stats/191JourneyDataExtract04Dec2019-10Dec2019.csv
+https://cycling.data.tfl.gov.uk/usage-stats/192JourneyDataExtract11Dec2019-17Dec2019.csv
+https://cycling.data.tfl.gov.uk/usage-stats/193JourneyDataExtract18Dec2019-24Dec2019.csv
+https://cycling.data.tfl.gov.uk/usage-stats/194JourneyDataExtract25Dec2019-31Dec2019.csv
+#
+#2022
+https://cycling.data.tfl.gov.uk/usage-stats/298JourneyDataExtract29Dec2021-04Jan2022.csv
+https://cycling.data.tfl.gov.uk/usage-stats/299JourneyDataExtract05Jan2022-11Jan2022.csv
+https://cycling.data.tfl.gov.uk/usage-stats/300JourneyDataExtract12Jan2022-18Jan2022.csv
+https://cycling.data.tfl.gov.uk/usage-stats/301JourneyDataExtract19Jan2022-25Jan2022.csv
+https://cycling.data.tfl.gov.uk/usage-stats/302JourneyDataExtract26Jan2022-01Feb2022.csv
+https://cycling.data.tfl.gov.uk/usage-stats/303JourneyDataExtract02Feb2022-08Feb2022.csv
+https://cycling.data.tfl.gov.uk/usage-stats/304JourneyDataExtract09Feb2022-15Feb2022.csv
+https://cycling.data.tfl.gov.uk/usage-stats/305JourneyDataExtract16Feb2022-22Feb2022.csv
+https://cycling.data.tfl.gov.uk/usage-stats/306JourneyDataExtract23Feb2022-01Mar2022.csv
+https://cycling.data.tfl.gov.uk/usage-stats/307JourneyDataExtract02Mar2022-08Mar2022.csv
+https://cycling.data.tfl.gov.uk/usage-stats/308JourneyDataExtract09Mar2022-15Mar2022.csv
+https://cycling.data.tfl.gov.uk/usage-stats/309JourneyDataExtract16Mar2022-22Mar2022.csv
+https://cycling.data.tfl.gov.uk/usage-stats/310JourneyDataExtract23Mar2022-29Mar2022.csv
+https://cycling.data.tfl.gov.uk/usage-stats/311JourneyDataExtract30Mar2022-05Apr2022.csv
+https://cycling.data.tfl.gov.uk/usage-stats/312JourneyDataExtract06Apr2022-12Apr2022.csv
+https://cycling.data.tfl.gov.uk/usage-stats/313JourneyDataExtract13Apr2022-19Apr2022.csv
+https://cycling.data.tfl.gov.uk/usage-stats/314JourneyDataExtract20Apr2022-26Apr2022.csv
+https://cycling.data.tfl.gov.uk/usage-stats/315JourneyDataExtract27Apr2022-03May2022.csv
+https://cycling.data.tfl.gov.uk/usage-stats/316JourneyDataExtract04May2022-10May2022.csv
+https://cycling.data.tfl.gov.uk/usage-stats/317JourneyDataExtract11May2022-17May2022.csv
+https://cycling.data.tfl.gov.uk/usage-stats/318JourneyDataExtract18May2022-24May2022.csv
+https://cycling.data.tfl.gov.uk/usage-stats/319JourneyDataExtract25May2022-31May2022.csv
+https://cycling.data.tfl.gov.uk/usage-stats/320JourneyDataExtract01Jun2022-07Jun2022.csv
+https://cycling.data.tfl.gov.uk/usage-stats/321JourneyDataExtract08Jun2022-14Jun2022.csv
+https://cycling.data.tfl.gov.uk/usage-stats/322JourneyDataExtract15Jun2022-21Jun2022.csv
+https://cycling.data.tfl.gov.uk/usage-stats/323JourneyDataExtract22Jun2022-28Jun2022.csv
+https://cycling.data.tfl.gov.uk/usage-stats/324JourneyDataExtract29Jun2022-05Jul2022.csv
+https://cycling.data.tfl.gov.uk/usage-stats/325JourneyDataExtract06Jul2022-12Jul2022.csv
+https://cycling.data.tfl.gov.uk/usage-stats/326JourneyDataExtract13Jul2022-19Jul2022.csv
+https://cycling.data.tfl.gov.uk/usage-stats/327JourneyDataExtract20Jul2022-26Jul2022.csv
+https://cycling.data.tfl.gov.uk/usage-stats/328JourneyDataExtract27Jul2022-02Aug2022.csv
+https://cycling.data.tfl.gov.uk/usage-stats/329JourneyDataExtract03Aug2022-09Aug2022.csv
+https://cycling.data.tfl.gov.uk/usage-stats/330JourneyDataExtract10Aug2022-16Aug2022.csv
+https://cycling.data.tfl.gov.uk/usage-stats/331JourneyDataExtract17Aug2022-23Aug2022.csv
+https://cycling.data.tfl.gov.uk/usage-stats/332JourneyDataExtract24Aug2022-30Aug2022.csv
+https://cycling.data.tfl.gov.uk/usage-stats/333JourneyDataExtract31Aug2022-06Sep2022.csv
+https://cycling.data.tfl.gov.uk/usage-stats/334JourneyDataExtract07Sep2022-11Sep2022.csv
+https://cycling.data.tfl.gov.uk/usage-stats/335JourneyDataExtract12Sep2022-18Sep2022.csv
+https://cycling.data.tfl.gov.uk/usage-stats/336JourneyDataExtract19Sep2022-25Sep2022.csv
+https://cycling.data.tfl.gov.uk/usage-stats/337JourneyDataExtract26Sep2022-02Oct2022.csv
+https://cycling.data.tfl.gov.uk/usage-stats/338JourneyDataExtract03Oct2022-09Oct2022.csv
+https://cycling.data.tfl.gov.uk/usage-stats/339JourneyDataExtract10Oct2022-16Oct2022.csv
+https://cycling.data.tfl.gov.uk/usage-stats/340JourneyDataExtract17Oct2022-23Oct2022.csv
+https://cycling.data.tfl.gov.uk/usage-stats/341JourneyDataExtract24Oct2022-30Oct2022.csv
+https://cycling.data.tfl.gov.uk/usage-stats/342JourneyDataExtract31Oct2022-06Nov2022.csv
+https://cycling.data.tfl.gov.uk/usage-stats/343JourneyDataExtract07Nov2022-13Nov2022.csv
+https://cycling.data.tfl.gov.uk/usage-stats/344JourneyDataExtract14Nov2022-20Nov2022.csv
+https://cycling.data.tfl.gov.uk/usage-stats/345JourneyDataExtract21Nov2022-27Nov2022.csv
+https://cycling.data.tfl.gov.uk/usage-stats/346JourneyDataExtract28Nov2022-04Dec2022.csv
+https://cycling.data.tfl.gov.uk/usage-stats/347JourneyDataExtract05Dec2022-11Dec2022.csv
+https://cycling.data.tfl.gov.uk/usage-stats/348JourneyDataExtract12Dec2022-18Dec2022.csv
+https://cycling.data.tfl.gov.uk/usage-stats/349JourneyDataExtract19Dec2022-25Dec2022.csv
+https://cycling.data.tfl.gov.uk/usage-stats/350JourneyDataExtract26Dec2022-01Jan2023.csv
