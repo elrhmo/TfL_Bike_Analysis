@@ -9,7 +9,7 @@
 
 
 ---
-# To-do
+### To-do
 - Code cleaning
   - The code works, but should eb refined for optimisation 
 - Conversion to .py format instead of a .ipynb python notebook format
